@@ -1,0 +1,5 @@
+1. To design an AI-based prediction system.
+2. To apply machine learning using C++.
+3. To predict student academic performance.
+4. To identify at-risk students.
+5. To support academic decision-making.

@@ -1,0 +1,8 @@
+Hardware:
+- Processor: i3 or above
+- RAM: 4GB minimum
+
+Software:
+- Windows OS
+- GCC Compiler
+- VS Code

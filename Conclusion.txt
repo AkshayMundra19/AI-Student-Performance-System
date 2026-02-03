@@ -1,0 +1,3 @@
+The AI-driven student performance system provides an effective academic
+prediction model. It enables early identification of weak students and
+supports data-driven academic decisions.

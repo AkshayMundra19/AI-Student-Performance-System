@@ -1,0 +1,4 @@
+This project implements an AI-driven system to predict student academic
+performance using machine learning. The system applies linear regression
+to analyze attendance, internal marks, and assignment scores to predict
+final performance and identify at-risk students.

@@ -1,0 +1,3 @@
+The system uses supervised machine learning with linear regression.
+Student data is trained using gradient descent. A rule-based risk
+calculation is applied for performance analysis.

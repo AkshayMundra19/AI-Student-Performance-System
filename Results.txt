@@ -1,0 +1,2 @@
+The system successfully predicted student performance with acceptable
+accuracy. Risk analysis helped identify weak students before examinations.

@@ -1,0 +1,3 @@
+Traditional education systems identify weak students after examinations.
+This delay prevents early academic intervention. An AI-based predictive
+system is required to forecast student performance in advance.
