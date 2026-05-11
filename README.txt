@@ -1,4 +1,4 @@
---- AI-Driven Student Performance Prediction System
+-- AI-Driven Student Performance Prediction System
 
 Language Used:
 C++
