@@ -1,7 +1,6 @@
-Project Title:
-AI-Driven Student Performance Prediction System
+--- AI-Driven Student Performance Prediction System
 
-Language:
+Language Used:
 C++
 
 How to Run:
